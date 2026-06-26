@@ -48,8 +48,8 @@ const WhatDrivesMe = {
  
 <h3>🛠 Tech Skills</h3>
 
-- 💻 &nbsp; C# | Java | C++ | Python | Go | HTML | CSS | JavaScript | TypeScript | Vue | Nuxt | React | Next | Astro | Svelte
-- 💻 &nbsp; .NET framework | ASP.NET Core | MySQL | PostgreSQL | MongoDB | Node.js | Express.js | REST | GraphQL | Docker
+- 💻 &nbsp; C#  | C++ | Python  | HTML | CSS | JavaScript | TypeScript | Vue | Nuxt | React | Next |
+- 💻 &nbsp;  MySQL | PostgreSQL | MongoDB | Node.js | Express.js | REST | GraphQL | Docker
 - ☁️ &nbsp; Vercel | CI/CD | Supabase | AWS | Firebase | Cloudflare 
 - ⚙️ &nbsp; Visual Studio Code | Visual Studio | pnpm | Git | Github  
 - 🎨 &nbsp; Tailwind | Motion | Figma | Material icons | Canva | Framer
@@ -110,4 +110,4 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elizabthpazp&color=4c5861&style=for-the-badge)
 
-_Made with 💜 by [Elizabeth de la Paz Portal](https://github.com/elizabthpazp)_
+_Made with 💜 by [farielp Portal](https://github.com/farielzz7)_
