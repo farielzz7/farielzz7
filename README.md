@@ -10,7 +10,7 @@
  <img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://portafoliofarielp.netlify.app/"/>
 
 <br/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;5%2B+Years+of+Software+Development;Building+Beautiful+Web+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 #### Languages & Frameworks
 
@@ -63,19 +63,19 @@ const WhatDrivesMe = {
     alt="GitHub Stats" height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabthpazp&layout=compact&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=EBDDFD&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farielzz7&layout=compact&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=EBDDFD&langs_count=8" 
     alt="Top Languages" height="170"
   />
 </div>
 
 <div align="center"> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabthpazp&hide_border=true&background=0D1117&ring=CBA6F7&fire=F5C2E7&currStreakLabel=EBDDFD&sideNums=EBDDFD&sideLabels=CBA6F7&dates=F5C2E7&currStreakNum=EBDDFD" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farielzz7&hide_border=true&background=0D1117&ring=CBA6F7&fire=F5C2E7&currStreakLabel=EBDDFD&sideNums=EBDDFD&sideLabels=CBA6F7&dates=F5C2E7&currStreakNum=EBDDFD" alt="GitHub Streak" />
 
 </div>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=elizabthpazp&bg_color=0D1117&color=EBDDFD&line=CBA6F7&point=F5C2E7&area_color=CBA6F7&hide_border=true"  
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Farielzz7&bg_color=0D1117&color=EBDDFD&line=CBA6F7&point=F5C2E7&area_color=CBA6F7&hide_border=true"  
   alt="Contribution Graph"  
 />
 
