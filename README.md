@@ -11,7 +11,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;5%2B+Years+of+Software+Development;Building+Beautiful+Web+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 #### Languages & Frameworks
 
