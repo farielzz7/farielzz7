@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;5%2B+Years+of+Software+Development;Building+Beautiful+Web+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A892D9&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;1%2B+Years+of+Software+Development;Building+Beautiful+Web+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 #### Languages & Frameworks
 
@@ -62,6 +62,7 @@ const WhatDrivesMe = {
     src="https://github-readme-stats.vercel.app/api?username=farielzz7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CBA6F7&icon_color=F5C2E7&text_color=EBDDFD&include_all_commits=true" 
     alt="GitHub Stats" height="170"
   />
+    
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=farielzz7&layout=compact&hide_border=true&bg_color=0D1117&title_color=CBA6F7&text_color=EBDDFD&langs_count=8" 
     alt="Top Languages" height="170"
